@@ -1,0 +1,10 @@
+.column{
+    border: 3px solid #222f3e;
+    border-radius: 7px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 6px 22px;
+}
